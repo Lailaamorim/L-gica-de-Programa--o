@@ -1,0 +1,43 @@
+📌 O que é lógica de programação
+
+É o jeito de pensar passo a passo para resolver um 
+problema usando o computador. Você pega um problema, quebra 
+ele em partes menores e escreve instruções para que o computador 
+siga e chegue na solução.
+
+💡 Pensa como receita de bolo:
+
+Lista dos ingredientes → variáveis
+
+Passo 1, passo 2, passo 3 → algoritmo
+
+Condições tipo "se tiver açúcar, coloque" → condicionais (if)
+
+Repetir até misturar → laços (for, while)
+
+🛠 Conceitos que você já está usando
+
+1. Variáveis
+
+São "caixinhas" onde guardamos valores.
+Exemplo:
+
+python
+soma = 0
+n = 1
+
+2. Laços (Repetições)
+
+Servem para repetir um bloco de código sem escrever várias vezes.
+
+for → quando você já sabe quantas vezes vai repetir.
+
+while → quando você repete até que uma condição seja falsa.
+
+3.Operações matemáticas
+
+Usar +, -, *, / para calcular.
+
+4.Condições (no caso do while)
+
+O while só repete enquanto a condição for verdadeira.
